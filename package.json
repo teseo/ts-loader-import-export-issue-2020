@@ -1,0 +1,12 @@
+{
+  "name": "ts-loader-import-export-issue-2020",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<javier.mellado@paddypowerbetfair.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^7.0.4",
+    "typescript": "^3.9.2",
+    "webpack": "^4.43.0"
+  }
+}
